@@ -2821,3 +2821,499 @@ run
 endsim
 # KERNEL: stopped at time: 152750 ns
 #  Simulation has been stopped
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0015: BEH.vhd : (12, 4): ';' expected.
+# Error: COMP96_0329: BEH.vhd : (12, 4): Generate statement must have a label.
+# Error: COMP96_0019: BEH.vhd : (12, 13): Keyword "generate" expected.
+# Error: COMP96_0019: BEH.vhd : (13, 7): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (13, 12): Design unit declaration expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0015: BEH.vhd : (12, 4): ';' expected.
+# Error: COMP96_0329: BEH.vhd : (12, 4): Generate statement must have a label.
+# Error: COMP96_0019: BEH.vhd : (12, 13): Keyword "generate" expected.
+# Error: COMP96_0019: BEH.vhd : (13, 7): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (13, 12): Design unit declaration expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0015: BEH.vhd : (12, 2): ';' expected.
+# Error: COMP96_0019: BEH.vhd : (12, 2): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (13, 4): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: BEH.vhd : (12, 15): Keyword "generate" expected.
+# Error: COMP96_0019: BEH.vhd : (13, 7): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (13, 12): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: BEH.vhd : (12, 15): Keyword "generate" expected.
+# Error: COMP96_0019: BEH.vhd : (13, 7): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (13, 12): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: BEH.vhd : (12, 15): Keyword "generate" expected.
+# Error: COMP96_0019: BEH.vhd : (13, 7): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (13, 12): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: BEH.vhd : (12, 4): Keyword "when" expected.
+# Error: COMP96_0015: BEH.vhd : (12, 4): ';' expected.
+# Error: COMP96_0019: BEH.vhd : (12, 4): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (12, 6): Design unit declaration expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: BEH.vhd : (12, 4): Keyword "when" expected.
+# Error: COMP96_0015: BEH.vhd : (12, 4): ';' expected.
+# Error: COMP96_0019: BEH.vhd : (12, 4): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (12, 6): Design unit declaration expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: BEH.vhd : (12, 4): Keyword "when" expected.
+# Error: COMP96_0015: BEH.vhd : (12, 4): ';' expected.
+# Error: COMP96_0019: BEH.vhd : (12, 4): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (12, 6): Design unit declaration expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: BEH.vhd : (12, 15): Keyword "generate" expected.
+# Error: COMP96_0015: BEH.vhd : (12, 34): ';' expected.
+# Error: COMP96_0016: BEH.vhd : (12, 36): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: BEH.vhd : (12, 15): Keyword "generate" expected.
+# Error: COMP96_0015: BEH.vhd : (12, 34): ';' expected.
+# Error: COMP96_0016: BEH.vhd : (12, 36): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0015: BEH.vhd : (12, 5): ';' expected.
+# Error: COMP96_0329: BEH.vhd : (12, 5): Generate statement must have a label.
+# Error: COMP96_0019: BEH.vhd : (12, 14): Keyword "generate" expected.
+# Error: COMP96_0019: BEH.vhd : (13, 8): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (13, 13): Design unit declaration expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0329: BEH.vhd : (12, 6): Generate statement must have a label.
+# Error: COMP96_0019: BEH.vhd : (12, 15): Keyword "generate" expected.
+# Error: COMP96_0019: BEH.vhd : (13, 8): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (13, 13): Design unit declaration expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [s]
+asim lsm_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0015: BEH.vhd : (12, 5): ';' expected.
+# Error: COMP96_0329: BEH.vhd : (12, 5): Generate statement must have a label.
+# Error: COMP96_0019: BEH.vhd : (12, 16): Keyword "generate" expected.
+# Error: COMP96_0019: BEH.vhd : (13, 8): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (13, 13): Design unit declaration expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0329: BEH.vhd : (12, 1): Generate statement must have a label.
+# Error: COMP96_0019: BEH.vhd : (12, 12): Keyword "generate" expected.
+# Error: COMP96_0019: BEH.vhd : (13, 1): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (13, 6): Design unit declaration expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: BEH.vhd : (12, 17): Keyword "generate" expected.
+# Error: COMP96_0019: BEH.vhd : (13, 8): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (13, 13): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: BEH.vhd : (11, 41): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (11, 46): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [s]
+asim lsm_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0071: BEH.vhd : (11, 32): Operator "=" is not defined for such operands.
+# Error: COMP96_0104: BEH.vhd : (11, 32): Undefined type of expression.
+# Error: COMP96_0098: BEH.vhd : (11, 32): Boolean type expected.
+# Error: COMP96_0016: BEH.vhd : (11, 46): Design unit declaration expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: BEH.vhd : (11, 41): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (11, 46): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: BEH.vhd : (11, 41): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (12, 1): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0015: BEH.vhd : (12, 1): ';' expected.
+# Error: COMP96_0019: BEH.vhd : (12, 1): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (12, 7): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0329: BEH.vhd : (10, 1): Generate statement must have a label.
+# Error: COMP96_0019: BEH.vhd : (10, 12): Keyword "generate" expected.
+# Error: COMP96_0019: BEH.vhd : (10, 28): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (10, 33): Design unit declaration expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: BEH.vhd : (10, 17): Keyword "generate" expected.
+# Error: COMP96_0019: BEH.vhd : (10, 33): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (10, 38): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: BEH.vhd : (10, 26): Keyword "end" expected.
+# Error: COMP96_0019: BEH.vhd : (10, 42): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (10, 47): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: BEH.vhd : (10, 30): Keyword "generate" expected.
+# Error: COMP96_0019: BEH.vhd : (10, 46): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (10, 51): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0017: BEH.vhd : (1, 26): Point expected.
+# Error: COMP96_0019: BEH.vhd : (14, 4): Keyword "when" expected.
+# Error: COMP96_0015: BEH.vhd : (14, 4): ';' expected.
+# Error: COMP96_0019: BEH.vhd : (14, 4): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (14, 6): Design unit declaration expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: BEH.vhd : (14, 4): Keyword "when" expected.
+# Error: COMP96_0015: BEH.vhd : (14, 4): ';' expected.
+# Error: COMP96_0019: BEH.vhd : (14, 4): Keyword "end" expected.
+# Error: COMP96_0016: BEH.vhd : (14, 6): Design unit declaration expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Error: COMP96_0016: BEH.vhd : (1, 19): Design unit declaration expected.
+# Error: COMP96_0016: BEH.vhd : (1, 22): Design unit declaration expected.
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0078: BEH.vhd : (12, 12): Unknown identifier "minimum".
+# Error: COMP96_0071: BEH.vhd : (11, 32): Operator "=" is not defined for such operands.
+# Error: COMP96_0104: BEH.vhd : (11, 32): Undefined type of expression.
+# Error: COMP96_0098: BEH.vhd : (11, 32): Boolean type expected.
+# Error: COMP96_0071: BEH.vhd : (12, 6): Operator "<=" is not defined for such operands.
+# Error: COMP96_0104: BEH.vhd : (12, 6): Undefined type of expression.
+# Error: COMP96_0077: BEH.vhd : (12, 6): Assignment target incompatible with right side. Expected type "INTEGER".
+# Error: COMP96_0232: BEH.vhd : (16, 33): Improper array length in this context. Expected length is 2.
+# Error: COMP96_0232: BEH.vhd : (18, 27): Improper array length in this context. Expected length is 2.
+# Error: COMP96_0301: BEH.vhd : (14, 6): The choice OTHERS must be present when all alternatives are not covered.
+# Error: COMP96_0367: BEH.vhd : (21, 7): Improper array length. Actual length is 12. Expected length is 4.
+# Compile failure 13 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0078: BEH.vhd : (1, 19): Unknown identifier "FUN".
+# Error: COMP96_0055: BEH.vhd : (1, 19): Cannot find referenced context element.
+# Error: COMP96_0078: BEH.vhd : (12, 12): Unknown identifier "minimum".
+# Error: COMP96_0071: BEH.vhd : (11, 32): Operator "=" is not defined for such operands.
+# Error: COMP96_0104: BEH.vhd : (11, 32): Undefined type of expression.
+# Error: COMP96_0098: BEH.vhd : (11, 32): Boolean type expected.
+# Error: COMP96_0071: BEH.vhd : (12, 6): Operator "<=" is not defined for such operands.
+# Error: COMP96_0104: BEH.vhd : (12, 6): Undefined type of expression.
+# Error: COMP96_0077: BEH.vhd : (12, 6): Assignment target incompatible with right side. Expected type "INTEGER".
+# Error: COMP96_0232: BEH.vhd : (16, 33): Improper array length in this context. Expected length is 2.
+# Error: COMP96_0232: BEH.vhd : (18, 27): Improper array length in this context. Expected length is 2.
+# Error: COMP96_0301: BEH.vhd : (14, 6): The choice OTHERS must be present when all alternatives are not covered.
+# Error: COMP96_0367: BEH.vhd : (21, 7): Improper array length. Actual length is 12. Expected length is 4.
+# Compile failure 13 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/FUN.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\FUN.vhd
+# Compile Package "FUN"
+# Compile Package Body "FUN"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0071: BEH.vhd : (11, 32): Operator "=" is not defined for such operands.
+# Error: COMP96_0104: BEH.vhd : (11, 32): Undefined type of expression.
+# Error: COMP96_0098: BEH.vhd : (11, 32): Boolean type expected.
+# Error: COMP96_0071: BEH.vhd : (12, 6): Operator "<=" is not defined for such operands.
+# Error: COMP96_0104: BEH.vhd : (12, 6): Undefined type of expression.
+# Error: COMP96_0077: BEH.vhd : (12, 6): Assignment target incompatible with right side. Expected type "INTEGER".
+# Error: COMP96_0232: BEH.vhd : (16, 33): Improper array length in this context. Expected length is 2.
+# Error: COMP96_0232: BEH.vhd : (18, 27): Improper array length in this context. Expected length is 2.
+# Error: COMP96_0301: BEH.vhd : (14, 6): The choice OTHERS must be present when all alternatives are not covered.
+# Error: COMP96_0367: BEH.vhd : (21, 7): Improper array length. Actual length is 12. Expected length is 4.
+# Compile failure 10 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/LSM.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\LSM.vhd
+# Compile Entity "LSM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0071: BEH.vhd : (12, 6): Operator "<=" is not defined for such operands.
+# Error: COMP96_0104: BEH.vhd : (12, 6): Undefined type of expression.
+# Error: COMP96_0077: BEH.vhd : (12, 6): Assignment target incompatible with right side. Expected type "INTEGER".
+# Error: COMP96_0083: BEH.vhd : (16, 33): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: BEH.vhd : (18, 27): The type of a choice expression does not match the case expression.
+# Error: COMP96_0301: BEH.vhd : (14, 6): The choice OTHERS must be present when all alternatives are not covered.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/FUN.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\FUN.vhd
+# Compile Package "FUN"
+# Compile Package Body "FUN"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/FUN.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\FUN.vhd
+# Compile Package "FUN"
+# Compile Package Body "FUN"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0071: BEH.vhd : (12, 8): Operator "<=" is not defined for such operands.
+# Error: COMP96_0104: BEH.vhd : (12, 8): Undefined type of expression.
+# Error: COMP96_0077: BEH.vhd : (12, 8): Assignment target incompatible with right side. Expected type "INTEGER".
+# Error: COMP96_0083: BEH.vhd : (16, 33): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: BEH.vhd : (18, 27): The type of a choice expression does not match the case expression.
+# Error: COMP96_0301: BEH.vhd : (14, 6): The choice OTHERS must be present when all alternatives are not covered.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0083: BEH.vhd : (15, 33): The type of a choice expression does not match the case expression.
+# Error: COMP96_0083: BEH.vhd : (17, 27): The type of a choice expression does not match the case expression.
+# Error: COMP96_0301: BEH.vhd : (13, 6): The choice OTHERS must be present when all alternatives are not covered.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0083: BEH.vhd : (15, 33): The type of a choice expression does not match the case expression.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim lsm beh
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1763 kB (elbread=1031 elab2=449 kernel=282 sdf=0)
+#  1:42, 28 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm (beh)
+# Signal UUT1/c not found in design
+# Signal UUT1/x not found in design
+# Signal UUT1/yi not found in design
+# Signal UUT1/F not found in design
+# Signal UUT1/A not found in design
+# Signal UUT1/B not found in design
+# Signal UUT1/C0 not found in design
+# Signal UUT1/Y not found in design
+# Signal UUT1/C3 not found in design
+# Signal UUT1/Z not found in design
+# Signal UUT2/ai not found in design
+# Signal UUT2/bi not found in design
+# Signal UUT2/ci not found in design
+# Signal UUT2/yi not found in design
+# Signal UUT2/ybi not found in design
+# Signal UUT2/F not found in design
+# Signal UUT2/A not found in design
+# Signal UUT2/B not found in design
+# Signal UUT2/C0 not found in design
+# Signal UUT2/Y not found in design
+# Signal UUT2/C3 not found in design
+# Signal UUT2/Z not found in design
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped
+asim lsm beh
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1763 kB (elbread=1031 elab2=449 kernel=282 sdf=0)
+#  1:42, 28 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm (beh)
+# Signal UUT1/c not found in design
+# Signal UUT1/x not found in design
+# Signal UUT1/yi not found in design
+# Signal UUT1/F not found in design
+# Signal UUT1/A not found in design
+# Signal UUT1/B not found in design
+# Signal UUT1/C0 not found in design
+# Signal UUT1/Y not found in design
+# Signal UUT1/C3 not found in design
+# Signal UUT1/Z not found in design
+# Signal UUT2/ai not found in design
+# Signal UUT2/bi not found in design
+# Signal UUT2/ci not found in design
+# Signal UUT2/yi not found in design
+# Signal UUT2/ybi not found in design
+# Signal UUT2/F not found in design
+# Signal UUT2/A not found in design
+# Signal UUT2/B not found in design
+# Signal UUT2/C0 not found in design
+# Signal UUT2/Y not found in design
+# Signal UUT2/C3 not found in design
+# Signal UUT2/Z not found in design
+run
+# RUNTIME: Fatal Error: RUNTIME_0046 BEH.vhd (13): Incompatible ranges; left: (12 downto 0), right: (11 downto 0).
+# KERNEL: Time: 0 ps,  Iteration: 0,  TOP instance,  Process: MUX.
+# Fatal error occurred during simulation.
+# KERNEL: stopped at delta: 0 at time 0 ps.
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0367: BEH.vhd : (20, 7): Improper array length. Actual length is 13. Expected length is 12.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0368: BEH.vhd : (20, 12): Value 13 out of range.
+# Error: COMP96_0367: BEH.vhd : (20, 7): Improper array length. Actual length is 13. Expected length is 12.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0367: BEH.vhd : (20, 7): Improper array length. Actual length is 13. Expected length is 12.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom -work LSM $DSN/src/BEH.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+run
+endsim
+#  Simulation has been stopped

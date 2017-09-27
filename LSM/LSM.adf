@@ -64,6 +64,7 @@ Extension7=
 /PLM_NOR.vhd=-1
 /STR_PLM.vhd=-1
 /TB_ARCHITECTURE.vhd=-1
+/FUN.vhd=-1
 
 [Files.Data]
 .\src\CNetlist_Lib.vhd=VHDL Source Code
@@ -78,4 +79,5 @@ Extension7=
 .\src\PLM_NOR.vhd=VHDL Source Code
 .\src\STR_PLM.vhd=VHDL Source Code
 .\src\TB_ARCHITECTURE.vhd=VHDL Source Code
+.\src\FUN.vhd=VHDL Source Code
 

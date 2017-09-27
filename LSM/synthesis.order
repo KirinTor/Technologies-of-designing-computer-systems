@@ -10,3 +10,4 @@ i<>.\src\PLMS.vhd
 i<>.\src\PLM_NOR.vhd
 i<>.\src\STR_PLM.vhd
 i<>.\src\TB_ARCHITECTURE.vhd
+i<>.\src\FUN.vhd
