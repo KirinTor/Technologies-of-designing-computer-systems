@@ -1,0 +1,81 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=LSM
+
+[Library]
+LSM=.\LSM.LIB
+
+[$LibMap$]
+LSM=.
+Active_lib=
+cnetwork=.
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+CSYNTH_TOOL=<none>
+PHYSSYNTH_TOOL=<none>
+HESPrepare=0
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+DVM_DISPLAY=NO
+FAMILY=
+
+[IMPLEMENTATION]
+UCF=
+
+[Folders]
+Name3=Makefiles
+Directory3=d:\projects\hard\vhdl\TDCS\LSM\
+Extension3=mak
+Name4=Memory
+Directory4=d:\projects\hard\vhdl\TDCS\LSM\src
+Extension4=mem;mif;hex
+Name5=Dll Libraries
+Directory5=d:\projects\hard\vhdl\TDCS\LSM\
+Extension5=dll
+Name6=PDF
+Directory6=d:\projects\hard\vhdl\TDCS\LSM\
+Extension6=pdf
+Name7=HTML
+Directory7=d:\projects\hard\vhdl\TDCS\LSM\
+Extension7=
+
+[Files]
+/CNetlist_Lib.vhd=-1
+/CNetwork_LIB.vhd=-1
+/LSM.vhd=-1
+/BEH.vhd=-1
+/STR_LUT.vhd=-1
+/PLM_4.vhd=-1
+/PLMI.vhd=-1
+/PLMO.vhd=-1
+/PLMS.vhd=-1
+/PLM_NOR.vhd=-1
+/STR_PLM.vhd=-1
+/TB_ARCHITECTURE.vhd=-1
+
+[Files.Data]
+.\src\CNetlist_Lib.vhd=VHDL Source Code
+.\src\CNetwork_LIB.vhd=VHDL Source Code
+.\src\LSM.vhd=VHDL Source Code
+.\src\BEH.vhd=VHDL Source Code
+.\src\STR_LUT.vhd=VHDL Source Code
+.\src\PLM_4.vhd=VHDL Source Code
+.\src\PLMI.vhd=VHDL Source Code
+.\src\PLMO.vhd=VHDL Source Code
+.\src\PLMS.vhd=VHDL Source Code
+.\src\PLM_NOR.vhd=VHDL Source Code
+.\src\STR_PLM.vhd=VHDL Source Code
+.\src\TB_ARCHITECTURE.vhd=VHDL Source Code
+

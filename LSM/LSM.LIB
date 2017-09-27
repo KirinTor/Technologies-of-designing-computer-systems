@@ -1,0 +1,143 @@
+timestamp=1506542089174
+
+[cnetwork]
+B/cnetwork=3*1791107
+E=1*893532
+I=0*580126
+M=3|0|v38|1506540510216|./src/cnetlist_lib.vhd|0*3310*0xbdb24987f5832810edb96342dc7db2475aed28e6|0*3912*0xab87650576a395126dc296abb9b0e065
+M/cnetwork=M/CNetwork 4|0|v38|1506542088078|./src/cnetwork_lib.vhd|0*577723*0x473e37c1991a3ec1637a4be1f7376917d7082edb|0*580043*0xab87650576a395126dc296abb9b0e065
+R=./src/cnetlist_lib.vhd|18
+V=0*985
+
+[fdre]
+A/beh=A/BEH 21|./src/cnetwork_lib.vhd|261|1*900475
+B/beh=3*1813515
+H/beh=0*581958
+I/beh=I/BEH 0*582422
+M=11|0|v38|1506540510950|./src/cnetlist_lib.vhd|0*15177*0x2059b5c46c048e21d11332d344d6cb4bdb1a98f2|0*15384*0xab87650576a395126dc296abb9b0e065
+M/beh=M/BEH 21|0|v38|1506542088387|./src/cnetwork_lib.vhd|0*582097*0xbadb04fdf5ab09e7ece914932f9a53f946a0e5b1|0*582347*0xab87650576a395126dc296abb9b0e065
+R=./src/cnetlist_lib.vhd|254
+V=0*14729
+
+[lsm]
+A/beh=A/BEH 21|./src/beh.vhd|2|1*901747
+A/str_lut=A/STR_LUT 21|./src/str_lut.vhd|1|1*904859
+A/str_plm=A/STR_PLM 21|./src/str_plm.vhd|1|1*914011
+B/beh=3*1814926
+B/str_lut=3*1819277
+B/str_plm=3*1825299
+H/beh=0*582575
+H/str_lut=0*584211
+H/str_plm=0*589991
+I/beh=I/BEH 0*584059
+I/str_lut=I/STR_LUT 0*587625
+I/str_plm=I/STR_PLM 0*592727
+M=11|0|v38|1506540511595|./src/lsm.vhd|0*28577*0x0f6760092551546bc3aeb91e71b7a9f4c5989aa8|0*28869*0xab87650576a395126dc296abb9b0e065
+M/beh=M/BEH 21|0|v38|1506542088474|./src/beh.vhd|0*583434*0x0e5cb0e4b447dd046b6b2d1d51b2740f9d55c22c|0*583994*0xab87650576a395126dc296abb9b0e065
+M/str_lut=M/STR_LUT 21|0|v38|1506542088549|./src/str_lut.vhd|0*586627*0xba0379b971573bec5e2f8d0bcb89aad91c0e532a|0*587552*0xab87650576a395126dc296abb9b0e065
+M/str_plm=M/STR_PLM 21|0|v38|1506542088909|./src/str_plm.vhd|0*591852*0x7923f383eef3eb291c5054eb87e4dd037024d982|0*592654*0xab87650576a395126dc296abb9b0e065
+R=./src/lsm.vhd|2
+V=0*26448
+
+[lsm_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|./src/tb_architecture.vhd|4|1*917417
+B/tb_architecture=3*1827850
+H/tb_architecture=0*592883
+I/tb_architecture=I/TB_ARCHITECTURE 0*600157
+M=11|0|v38|1506541697998|./src/tb_architecture.vhd|0*485904*0x228f9f5f0b8bc039c667407966394f097596a5a5|0*486026*0xab87650576a395126dc296abb9b0e065
+M/tb_architecture=M/TB_ARCHITECTURE 21|0|v38|1506542089004|./src/tb_architecture.vhd|0*598877*0x4f6246acdecc2592b5bc98fcfa85d65ef023458d|0*600065*0xab87650576a395126dc296abb9b0e065
+R=./src/tb_architecture.vhd|2
+V=0*485819
+
+[lut4]
+A/beh=A/BEH 21|./src/cnetwork_lib.vhd|194|1*895575
+B/beh=3*1809440
+H/beh=0*580279
+I/beh=I/BEH 0*580604
+M=11|0|v38|1506540510638|./src/cnetlist_lib.vhd|0*8093*0x46ce21b78873feceac0d1933425bcefa8694c890|0*8369*0xab87650576a395126dc296abb9b0e065
+M/beh=M/BEH 21|0|v38|1506542088171|./src/cnetwork_lib.vhd|0*580360*0xf266e2562ad1964b3d61b7a993602b7bb649f648|0*580529*0xab87650576a395126dc296abb9b0e065
+R=./src/cnetlist_lib.vhd|182
+V=0*7156
+
+[lut5]
+A/beh=A/BEH 21|./src/cnetwork_lib.vhd|213|1*897027
+B/beh=3*1810114
+H/beh=0*580757
+I/beh=I/BEH 0*581084
+M=11|0|v38|1506540510733|./src/cnetlist_lib.vhd|0*10484*0x02825a9f38724d05d1f8155dcb0bc5f6fcb290d7|0*10779*0xab87650576a395126dc296abb9b0e065
+M/beh=M/BEH 21|0|v38|1506542088247|./src/cnetwork_lib.vhd|0*580838*0x76abad321351758fece12e05b8832b87488da446|0*581009*0xab87650576a395126dc296abb9b0e065
+R=./src/cnetlist_lib.vhd|200
+V=0*9487
+
+[plm_3]
+M=11|0|v38|1506540511060|./src/cnetlist_lib.vhd|0*20477*0xe52f729c9aa9dac009d215997e26086e1df7c28e|0*20667*0xab87650576a395126dc296abb9b0e065
+R=./src/cnetlist_lib.vhd|299
+V=0*20084
+
+[plm_4]
+A/plm_nor=A/PLM_NOR 21|./src/plm_nor.vhd|1|1*912913
+A/plmi=A/PLMI 21|./src/plmi.vhd|1|1*909655
+A/plmo=A/PLMO 21|./src/plmo.vhd|1|1*910741
+A/plms=A/PLMS 21|./src/plms.vhd|1|1*911827
+B/plm_nor=3*1824669
+B/plmi=3*1821828
+B/plmo=3*1822827
+B/plms=3*1823766
+H/plm_nor=0*589510
+H/plmi=0*587781
+H/plmo=0*588375
+H/plms=0*588952
+I/plm_nor=I/PLM_NOR 0*589833
+I/plmi=I/PLMI 0*588220
+I/plmo=I/PLMO 0*588797
+I/plms=I/PLMS 0*589355
+M=11|0|v38|1506540511046|./src/cnetlist_lib.vhd|0*19410*0x6ed189d74950132cd2b76c028276965457b129ce|0*19605*0xab87650576a395126dc296abb9b0e065
+M/plm_nor=M/PLM_NOR 21|0|v38|1506542088831|./src/plm_nor.vhd|0*589599*0x4b457ca8e7c3825d9325d957940f889c965e6f56|0*589758*0xab87650576a395126dc296abb9b0e065
+M/plmi=M/PLMI 21|0|v38|1506542088627|./src/plmi.vhd|0*587864*0xc57f8923f3fd9d39352523432f13011ba4a06883|0*588151*0xab87650576a395126dc296abb9b0e065
+M/plmo=M/PLMO 21|0|v38|1506542088690|./src/plmo.vhd|0*588458*0xe6a9d562542223bbf2793c6268d2433a82449471|0*588728*0xab87650576a395126dc296abb9b0e065
+M/plms=M/PLMS 21|0|v38|1506542088768|./src/plms.vhd|0*589035*0xba84ca1413e547bdd4de4ba7d099c416ba611427|0*589286*0xab87650576a395126dc296abb9b0e065
+R=./src/cnetlist_lib.vhd|292
+V=0*18961
+
+[plm_5]
+M=11|0|v38|1506540511044|./src/cnetlist_lib.vhd|0*18250*0x2610c1e0fcbd0097e65c20aeaa949626619a7594|0*18450*0xab87650576a395126dc296abb9b0e065
+R=./src/cnetlist_lib.vhd|285
+V=0*17745
+
+[plm_6]
+M=11|0|v38|1506540511030|./src/cnetlist_lib.vhd|0*16997*0xa94487b5a6d5d3b4d22d38edf9453c790257024c|0*17202*0xab87650576a395126dc296abb9b0e065
+R=./src/cnetlist_lib.vhd|278
+V=0*16436
+
+[random_gen]
+A/beh=A/BEH 21|./src/cnetwork_lib.vhd|233|1*898557
+B/beh=3*1810824
+H/beh=0*581237
+I/beh=I/BEH 0*581799
+M=11|0|v38|1506540510825|./src/cnetlist_lib.vhd|0*13148*0xd20ff0b0c80a2f6df6302d4e9aa918eca299d7a7|0*13464*0xab87650576a395126dc296abb9b0e065
+M/beh=M/BEH 21|0|v38|1506542088311|./src/cnetwork_lib.vhd|0*581318*0x5cb553387c4a6fac5e377522a87c3d15e44110ee|0*581718*0xab87650576a395126dc296abb9b0e065
+R=./src/cnetlist_lib.vhd|223
+V=0*11952
+
+[~A]
+ModifyID=2292
+Version=73
+
+[~MFT]
+0=2462|0LSM.mgf|600157|173673
+1=976|1LSM.mgf|917417|893532
+3=976|3LSM.mgf|1827850|1791107
+
+[~U]
+cnetwork=CNetwork 3|0*0|0*124
+fdre=FDRE 11|0*14317|0*14473
+lsm=LSM 11|0*25588|0*25799
+lsm_tb=11|0*485594|0*485653
+lut4=LUT4 11|0*6570|0*6759
+lut5=LUT5 11|0*8864|0*9069
+plm_3=PLM_3 11|0*19674|0*19820
+plm_4=PLM_4 11|0*18519|0*18677
+plm_5=PLM_5 11|0*17271|0*17441
+plm_6=PLM_6 11|0*15930|0*16112
+random_gen=RANDOM_GEN 11|0*11276|0*11473
+

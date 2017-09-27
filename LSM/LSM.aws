@@ -1,0 +1,9 @@
+[Version]
+Version=7.2
+[Designs]
+LSM=.\LSM.adf
+[Settings]
+Active=lsm
+[Expand]
+lsm=1
+cnetwork=0

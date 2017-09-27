@@ -1,0 +1,2823 @@
+# Library Manager: Library "cnetwork" contents cleared.
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0019: beh.vhd : (17, 30): Keyword "end" expected.
+# Error: COMP96_0016: beh.vhd : (17, 32): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0029: num.vhd : (11, 23): Expression expected.
+# Error: COMP96_0015: num.vhd : (11, 23): ',' expected.
+# Error: COMP96_0015: num.vhd : (11, 23): ';' expected.
+# Error: COMP96_0019: num.vhd : (11, 23): Keyword "end" expected.
+# Error: COMP96_0016: num.vhd : (11, 24): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# Error: COMP96_0015: str_lut.vhd : (4, 41): ')' expected.
+# Error: COMP96_0015: str_lut.vhd : (4, 41): ';' expected.
+# Error: COMP96_0018: str_lut.vhd : (7, 15): Identifier expected.
+# Error: COMP96_0015: str_lut.vhd : (9, 8): ';' expected.
+# Error: COMP96_0019: str_lut.vhd : (9, 8): Keyword "end" expected.
+# Error: COMP96_0016: str_lut.vhd : (9, 10): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# Error: COMP96_0019: plms.vhd : (2, 7): Keyword "end" expected.
+# Error: COMP96_0016: plms.vhd : (2, 9): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# Error: COMP96_0015: plm_nor.vhd : (5, 11): ';' expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   LUT4
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 16 Errors 0 Warnings  Analysis time :  2.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# Error: COMP96_0078: beh.vhd : (18, 2): Unknown identifier "C7".
+# Error: COMP96_0133: beh.vhd : (18, 2): Cannot find object declaration.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0029: num.vhd : (11, 23): Expression expected.
+# Error: COMP96_0015: num.vhd : (11, 23): ',' expected.
+# Error: COMP96_0015: num.vhd : (11, 23): ';' expected.
+# Error: COMP96_0019: num.vhd : (11, 23): Keyword "end" expected.
+# Error: COMP96_0016: num.vhd : (11, 24): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# Error: COMP96_0015: str_lut.vhd : (4, 41): ')' expected.
+# Error: COMP96_0015: str_lut.vhd : (4, 41): ';' expected.
+# Error: COMP96_0018: str_lut.vhd : (7, 15): Identifier expected.
+# Error: COMP96_0015: str_lut.vhd : (9, 8): ';' expected.
+# Error: COMP96_0019: str_lut.vhd : (9, 8): Keyword "end" expected.
+# Error: COMP96_0016: str_lut.vhd : (9, 10): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# Error: COMP96_0019: plms.vhd : (2, 7): Keyword "end" expected.
+# Error: COMP96_0016: plms.vhd : (2, 9): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# Error: COMP96_0015: plm_nor.vhd : (5, 11): ';' expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   LUT4
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 16 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0029: num.vhd : (11, 23): Expression expected.
+# Error: COMP96_0015: num.vhd : (11, 23): ',' expected.
+# Error: COMP96_0015: num.vhd : (11, 23): ';' expected.
+# Error: COMP96_0019: num.vhd : (11, 23): Keyword "end" expected.
+# Error: COMP96_0016: num.vhd : (11, 24): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# Error: COMP96_0015: str_lut.vhd : (4, 41): ')' expected.
+# Error: COMP96_0015: str_lut.vhd : (4, 41): ';' expected.
+# Error: COMP96_0018: str_lut.vhd : (7, 15): Identifier expected.
+# Error: COMP96_0015: str_lut.vhd : (9, 8): ';' expected.
+# Error: COMP96_0019: str_lut.vhd : (9, 8): Keyword "end" expected.
+# Error: COMP96_0016: str_lut.vhd : (9, 10): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# Error: COMP96_0019: plms.vhd : (2, 7): Keyword "end" expected.
+# Error: COMP96_0016: plms.vhd : (2, 9): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# Error: COMP96_0015: plm_nor.vhd : (5, 11): ';' expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   LUT4
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 14 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (2, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (2, 25): Unknown type.
+# Error: COMP96_0078: num.vhd : (5, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (5, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (5, 16): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (6, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (6, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (6, 16): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (10, 21): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# Error: COMP96_0015: str_lut.vhd : (4, 41): ')' expected.
+# Error: COMP96_0015: str_lut.vhd : (4, 41): ';' expected.
+# Error: COMP96_0018: str_lut.vhd : (7, 15): Identifier expected.
+# Error: COMP96_0015: str_lut.vhd : (9, 8): ';' expected.
+# Error: COMP96_0019: str_lut.vhd : (9, 8): Keyword "end" expected.
+# Error: COMP96_0016: str_lut.vhd : (9, 10): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# Error: COMP96_0019: plms.vhd : (2, 7): Keyword "end" expected.
+# Error: COMP96_0016: plms.vhd : (2, 9): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# Error: COMP96_0015: plm_nor.vhd : (5, 11): ';' expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   LUT4
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 18 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (2, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (2, 25): Unknown type.
+# Error: COMP96_0078: num.vhd : (5, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (5, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (5, 16): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (6, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (6, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (6, 16): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (10, 21): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# Error: COMP96_0015: str_lut.vhd : (4, 41): ')' expected.
+# Error: COMP96_0015: str_lut.vhd : (4, 41): ';' expected.
+# Error: COMP96_0018: str_lut.vhd : (7, 15): Identifier expected.
+# Error: COMP96_0015: str_lut.vhd : (9, 8): ';' expected.
+# Error: COMP96_0019: str_lut.vhd : (9, 8): Keyword "end" expected.
+# Error: COMP96_0016: str_lut.vhd : (9, 10): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# Error: COMP96_0019: plms.vhd : (2, 7): Keyword "end" expected.
+# Error: COMP96_0016: plms.vhd : (2, 9): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# Error: COMP96_0015: plm_nor.vhd : (5, 11): ';' expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   LUT4
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 18 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (2, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (2, 25): Unknown type.
+# Error: COMP96_0078: num.vhd : (5, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (5, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (5, 16): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (6, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (6, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (6, 16): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (10, 21): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# Error: COMP96_0015: str_lut.vhd : (4, 41): ')' expected.
+# Error: COMP96_0015: str_lut.vhd : (4, 41): ';' expected.
+# Error: COMP96_0018: str_lut.vhd : (7, 15): Identifier expected.
+# Error: COMP96_0015: str_lut.vhd : (9, 8): ';' expected.
+# Error: COMP96_0019: str_lut.vhd : (9, 8): Keyword "end" expected.
+# Error: COMP96_0016: str_lut.vhd : (9, 10): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# Error: COMP96_0019: plms.vhd : (2, 7): Keyword "end" expected.
+# Error: COMP96_0016: plms.vhd : (2, 9): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# Error: COMP96_0015: plm_nor.vhd : (5, 11): ';' expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   LUT4
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 18 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (3, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (3, 25): Unknown type.
+# Error: COMP96_0078: num.vhd : (6, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (6, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (6, 16): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (7, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (7, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (7, 16): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (11, 21): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# Error: COMP96_0015: str_lut.vhd : (4, 41): ')' expected.
+# Error: COMP96_0015: str_lut.vhd : (4, 41): ';' expected.
+# Error: COMP96_0018: str_lut.vhd : (7, 15): Identifier expected.
+# Error: COMP96_0015: str_lut.vhd : (9, 8): ';' expected.
+# Error: COMP96_0019: str_lut.vhd : (9, 8): Keyword "end" expected.
+# Error: COMP96_0016: str_lut.vhd : (9, 10): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# Error: COMP96_0019: plms.vhd : (2, 7): Keyword "end" expected.
+# Error: COMP96_0016: plms.vhd : (2, 9): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# Error: COMP96_0015: plm_nor.vhd : (5, 11): ';' expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   LUT4
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 18 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (3, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (3, 25): Unknown type.
+# Error: COMP96_0078: num.vhd : (6, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (6, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (6, 16): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (7, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (7, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (7, 16): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (11, 21): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# Error: COMP96_0015: str_lut.vhd : (9, 8): ';' expected.
+# Error: COMP96_0019: str_lut.vhd : (9, 8): Keyword "end" expected.
+# Error: COMP96_0016: str_lut.vhd : (9, 10): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# Error: COMP96_0019: plms.vhd : (2, 7): Keyword "end" expected.
+# Error: COMP96_0016: plms.vhd : (2, 9): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# Error: COMP96_0015: plm_nor.vhd : (5, 11): ';' expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   LUT4
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 15 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (3, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (3, 25): Unknown type.
+# Error: COMP96_0078: num.vhd : (6, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (6, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (6, 16): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (7, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (7, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (7, 16): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (11, 21): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# Error: COMP96_0015: str_lut.vhd : (12, 35): ')' expected.
+# Error: COMP96_0015: str_lut.vhd : (14, 35): ')' expected.
+# Error: COMP96_0015: str_lut.vhd : (16, 35): ')' expected.
+# Error: COMP96_0015: str_lut.vhd : (20, 34): ')' expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# Error: COMP96_0019: plms.vhd : (2, 7): Keyword "end" expected.
+# Error: COMP96_0016: plms.vhd : (2, 9): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# Error: COMP96_0015: plm_nor.vhd : (5, 11): ';' expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   LUT4
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 16 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (3, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (3, 25): Unknown type.
+# Error: COMP96_0078: num.vhd : (6, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (6, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (6, 16): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (7, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (7, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (7, 16): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (11, 21): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# Error: COMP96_0015: str_lut.vhd : (20, 34): ')' expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# Error: COMP96_0019: plms.vhd : (2, 7): Keyword "end" expected.
+# Error: COMP96_0016: plms.vhd : (2, 9): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# Error: COMP96_0015: plm_nor.vhd : (5, 11): ';' expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   LUT4
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 13 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (3, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (3, 25): Unknown type.
+# Error: COMP96_0078: num.vhd : (6, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (6, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (6, 16): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (7, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (7, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (7, 16): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (11, 21): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# Error: COMP96_0019: plms.vhd : (2, 7): Keyword "end" expected.
+# Error: COMP96_0016: plms.vhd : (2, 9): Design unit declaration expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# Error: COMP96_0015: plm_nor.vhd : (5, 11): ';' expected.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 12 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (2, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (2, 25): Unknown type.
+# Error: COMP96_0078: num.vhd : (5, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (5, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (5, 16): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (6, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (6, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (6, 16): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (10, 21): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 9 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -work LSM $DSN/src/NUM.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\NUM.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: NUM.vhd : (2, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: NUM.vhd : (2, 25): Unknown type.
+# Error: COMP96_0078: NUM.vhd : (5, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: NUM.vhd : (5, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: NUM.vhd : (5, 16): Cannot find object declaration.
+# Error: COMP96_0078: NUM.vhd : (6, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: NUM.vhd : (6, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: NUM.vhd : (6, 16): Cannot find object declaration.
+# Error: COMP96_0149: NUM.vhd : (10, 20): Explicit type conversions are allowed between closely related types only.
+# Compile failure 9 Errors 0 Warnings  Analysis time :  0.4 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (2, 21): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (2, 21): Unknown type.
+# Error: COMP96_0078: num.vhd : (5, 7): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (5, 14): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (5, 14): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (6, 7): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (6, 14): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (6, 14): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (10, 19): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 9 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (2, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (2, 25): Unknown type.
+# Error: COMP96_0078: num.vhd : (5, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (5, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (5, 16): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (6, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (6, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (6, 16): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (10, 20): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 9 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (3, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (3, 25): Unknown type.
+# Error: COMP96_0078: num.vhd : (6, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (6, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (6, 16): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (7, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (7, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (7, 16): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (11, 20): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 9 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (7, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (7, 25): Unknown type.
+# Error: COMP96_0078: num.vhd : (10, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (10, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (10, 16): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (11, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (11, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (11, 16): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (15, 20): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 9 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (3, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (3, 25): Unknown type.
+# Error: COMP96_0078: num.vhd : (6, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (6, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (6, 16): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (7, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (7, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (7, 16): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (11, 20): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Compile failure 9 Errors 0 Warnings  Analysis time :  1.0 [s]
+# Warning: The synthesis tool has not been selected.
+# Warning: Use 'Flow Configuration Settings' option to specify this tool.
+# Warning: The synthesis tool has not been selected.
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (3, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (3, 25): Unknown type.
+# Error: COMP96_0078: num.vhd : (6, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (6, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (6, 16): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (7, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (7, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (7, 16): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (11, 20): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 9 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (1, 5): Unknown identifier "IEEE".
+# Error: COMP96_0055: num.vhd : (1, 5): Cannot find referenced context element.
+# Error: COMP96_0078: num.vhd : (3, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (3, 25): Unknown type.
+# Error: COMP96_0078: num.vhd : (6, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (6, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (6, 16): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (7, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (7, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (7, 16): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (11, 20): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 11 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/num.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\num.vhd
+# Compile Architecture "NUM" of Entity "LSM"
+# Error: COMP96_0078: num.vhd : (4, 25): Unknown identifier "SIGNED".
+# Error: COMP96_0064: num.vhd : (4, 25): Unknown type.
+# Error: COMP96_0078: num.vhd : (7, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (7, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (7, 16): Cannot find object declaration.
+# Error: COMP96_0078: num.vhd : (8, 8): Unknown identifier "RESIZE".
+# Error: COMP96_0078: num.vhd : (8, 16): Unknown identifier "SIGNED".
+# Error: COMP96_0133: num.vhd : (8, 16): Cannot find object declaration.
+# Error: COMP96_0149: num.vhd : (12, 20): Explicit type conversions are allowed between closely related types only.
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 9 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd $DSN/src/tb_architecture.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\tb_architecture.vhd
+# Compile Entity "lsm_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "lsm_tb"
+# Error: COMP96_0015: tb_architecture.vhd : (15, 22): ')' expected.
+# Error: COMP96_0015: tb_architecture.vhd : (15, 22): ';' expected.
+# Error: COMP96_0018: tb_architecture.vhd : (20, 14): Identifier expected.
+# Error: COMP96_0015: tb_architecture.vhd : (22, 34): ';' expected.
+# Error: COMP96_0015: tb_architecture.vhd : (23, 15): ';' expected.
+# Error: COMP96_0019: tb_architecture.vhd : (25, 1): Keyword "begin" expected.
+# Error: COMP96_0016: tb_architecture.vhd : (25, 3): Design unit declaration expected.
+# Compile Entity "LSM"
+# Error: COMP96_0019: tb_architecture.vhd : (36, 18): Keyword "is" expected.
+# Error: COMP96_0019: tb_architecture.vhd : (36, 18): Keyword "end" expected.
+# Error: COMP96_0015: tb_architecture.vhd : (36, 18): ';' expected.
+# Error: COMP96_0016: tb_architecture.vhd : (36, 19): Design unit declaration expected.
+# Compile Entity "LSM"
+# Error: COMP96_0019: tb_architecture.vhd : (39, 18): Keyword "is" expected.
+# Error: COMP96_0019: tb_architecture.vhd : (39, 18): Keyword "end" expected.
+# Error: COMP96_0015: tb_architecture.vhd : (39, 18): ';' expected.
+# Error: COMP96_0016: tb_architecture.vhd : (39, 19): Design unit declaration expected.
+# Compile Entity "object"
+# Error: COMP96_0019: tb_architecture.vhd : (40, 2): Keyword "is" expected.
+# Error: COMP96_0015: tb_architecture.vhd : (40, 7): '(' expected.
+# Error: COMP96_0028: tb_architecture.vhd : (40, 7): Identifier or keyword expected.
+# Error: COMP96_0015: tb_architecture.vhd : (40, 7): ';' expected.
+# Error: COMP96_0019: tb_architecture.vhd : (40, 11): Keyword "end" expected.
+# Error: COMP96_0015: tb_architecture.vhd : (40, 11): ';' expected.
+# Error: COMP96_0016: tb_architecture.vhd : (40, 12): Design unit declaration expected.
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 22 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd $DSN/src/tb_architecture.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\tb_architecture.vhd
+# Compile Entity "lsm_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "lsm_tb"
+# Error: COMP96_0015: tb_architecture.vhd : (33, 1): ';' expected.
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 1 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd $DSN/src/tb_architecture.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\tb_architecture.vhd
+# Compile Entity "lsm_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "lsm_tb"
+# Error: COMP96_0015: tb_architecture.vhd : (33, 1): ';' expected.
+# Error: COMP96_0019: tb_architecture.vhd : (34, 28): Keyword "end" expected.
+# Error: COMP96_0016: tb_architecture.vhd : (35, 1): Design unit declaration expected.
+# Compile Entity "LSM"
+# Error: COMP96_0019: tb_architecture.vhd : (35, 17): Keyword "is" expected.
+# Error: COMP96_0019: tb_architecture.vhd : (35, 17): Keyword "end" expected.
+# Error: COMP96_0015: tb_architecture.vhd : (35, 17): ';' expected.
+# Error: COMP96_0016: tb_architecture.vhd : (35, 18): Design unit declaration expected.
+# Compile Entity "LSM"
+# Error: COMP96_0019: tb_architecture.vhd : (38, 17): Keyword "is" expected.
+# Error: COMP96_0019: tb_architecture.vhd : (38, 17): Keyword "end" expected.
+# Error: COMP96_0015: tb_architecture.vhd : (38, 17): ';' expected.
+# Error: COMP96_0016: tb_architecture.vhd : (38, 18): Design unit declaration expected.
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 11 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd $DSN/src/tb_architecture.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\tb_architecture.vhd
+# Compile Entity "lsm_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "lsm_tb"
+# Error: COMP96_0015: tb_architecture.vhd : (33, 1): ';' expected.
+# Top-level unit(s) detected:
+# Entity  =>   LSM
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 1 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd $DSN/src/tb_architecture.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\tb_architecture.vhd
+# Compile Entity "lsm_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "lsm_tb"
+# Error: COMP96_0078: tb_architecture.vhd : (30, 16): Unknown identifier "CLK".
+# Error: COMP96_0133: tb_architecture.vhd : (30, 16): Cannot find object declaration.
+# Error: COMP96_0104: tb_architecture.vhd : (30, 11): Undefined type of expression.
+# Top-level unit(s) detected:
+# Entity  =>   lsm_tb
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 3 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd $DSN/src/tb_architecture.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\tb_architecture.vhd
+# Compile Entity "lsm_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "lsm_tb"
+# Error: COMP96_0078: tb_architecture.vhd : (31, 16): Unknown identifier "CLK".
+# Error: COMP96_0133: tb_architecture.vhd : (31, 16): Cannot find object declaration.
+# Error: COMP96_0104: tb_architecture.vhd : (31, 11): Undefined type of expression.
+# Top-level unit(s) detected:
+# Entity  =>   lsm_tb
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 3 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd $DSN/src/tb_architecture.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\tb_architecture.vhd
+# Compile Entity "lsm_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "lsm_tb"
+# Error: COMP96_0078: tb_architecture.vhd : (31, 16): Unknown identifier "CLK".
+# Error: COMP96_0133: tb_architecture.vhd : (31, 16): Cannot find object declaration.
+# Error: COMP96_0104: tb_architecture.vhd : (31, 11): Undefined type of expression.
+# Error: COMP96_0016: tb_architecture.vhd : (46, 1): Design unit declaration expected.
+# Top-level unit(s) detected:
+# Entity  =>   lsm_tb
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 4 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd $DSN/src/tb_architecture.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\tb_architecture.vhd
+# Compile Entity "lsm_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "lsm_tb"
+# Error: COMP96_0078: tb_architecture.vhd : (31, 16): Unknown identifier "CLK".
+# Error: COMP96_0133: tb_architecture.vhd : (31, 16): Cannot find object declaration.
+# Error: COMP96_0104: tb_architecture.vhd : (31, 11): Undefined type of expression.
+# Top-level unit(s) detected:
+# Entity  =>   lsm_tb
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 3 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd $DSN/src/tb_architecture.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\tb_architecture.vhd
+# Compile Entity "lsm_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "lsm_tb"
+# Error: COMP96_0078: tb_architecture.vhd : (31, 16): Unknown identifier "CLK".
+# Error: COMP96_0133: tb_architecture.vhd : (31, 16): Cannot find object declaration.
+# Error: COMP96_0104: tb_architecture.vhd : (31, 11): Undefined type of expression.
+# Top-level unit(s) detected:
+# Entity  =>   lsm_tb
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile failure 3 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd $DSN/src/tb_architecture.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\tb_architecture.vhd
+# Compile Entity "lsm_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "lsm_tb"
+# Top-level unit(s) detected:
+# Entity  =>   lsm_tb
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim lsm_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1696 kB (elbread=1032 elab2=380 kernel=283 sdf=0)
+#  22:52, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm_tb (tb_architecture)
+run
+# Signal F not found in design
+# Signal A not found in design
+# Signal B not found in design
+# Signal C0 not found in design
+# KERNEL: stopped at time: 41566151 ns
+run
+run @48410.25us
+run 10000 ns
+# KERNEL: stopped at time: 52618652 ns
+acom -reorder -work LSM $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd $DSN/src/lsm.vhd $DSN/src/beh.vhd $DSN/src/str_lut.vhd $DSN/src/plm_4.vhd $DSN/src/plmi.vhd $DSN/src/plmo.vhd $DSN/src/plms.vhd $DSN/src/plm_nor.vhd $DSN/src/str_plm.vhd $DSN/src/tb_architecture.vhd
+# Compile with File Reorder...
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\lsm.vhd
+# Compile Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\beh.vhd
+# Compile Architecture "BEH" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_lut.vhd
+# Compile Architecture "STR_LUT" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_4.vhd
+# Compile Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmi.vhd
+# Compile Architecture "PLMI" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plmo.vhd
+# Compile Architecture "PLMO" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plms.vhd
+# Compile Architecture "PLMS" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\plm_nor.vhd
+# Compile Architecture "PLM_NOR" of Entity "PLM_4"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\str_plm.vhd
+# Compile Architecture "STR_PLM" of Entity "LSM"
+# File: d:\projects\hard\vhdl\TDCS\LSM\src\tb_architecture.vhd
+# Compile Entity "lsm_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "lsm_tb"
+# Top-level unit(s) detected:
+# Entity  =>   lsm_tb
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]
+endsim
+#  Simulation has been stopped
+asim lsm_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1696 kB (elbread=1032 elab2=380 kernel=283 sdf=0)
+#  22:55, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm_tb (tb_architecture)
+run
+endsim
+# KERNEL: stopped at time: 12732751 ns
+#  Simulation has been stopped
+asim lsm_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1696 kB (elbread=1032 elab2=380 kernel=283 sdf=0)
+#  22:56, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm_tb (tb_architecture)
+run
+# KERNEL: stopped at time: 2800152 ns
+endsim
+#  Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim lsm beh
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1635 kB (elbread=1031 elab2=321 kernel=282 sdf=0)
+#  23:09, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm (beh)
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped
+asim lsm beh
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1635 kB (elbread=1031 elab2=321 kernel=282 sdf=0)
+#  23:10, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm (beh)
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped
+asim lsm beh
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1635 kB (elbread=1031 elab2=321 kernel=282 sdf=0)
+#  23:10, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm (beh)
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped
+asim lsm beh
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1635 kB (elbread=1031 elab2=321 kernel=282 sdf=0)
+#  23:12, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm (beh)
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped
+asim lsm beh
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1635 kB (elbread=1031 elab2=321 kernel=282 sdf=0)
+#  23:13, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm (beh)
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped
+asim lsm beh
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1635 kB (elbread=1031 elab2=321 kernel=282 sdf=0)
+#  23:15, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm (beh)
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped
+asim lsm beh
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1635 kB (elbread=1031 elab2=321 kernel=282 sdf=0)
+#  23:16, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm (beh)
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped
+asim lsm beh
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1635 kB (elbread=1031 elab2=321 kernel=282 sdf=0)
+#  23:16, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm (beh)
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped
+asim lsm beh
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1635 kB (elbread=1031 elab2=321 kernel=282 sdf=0)
+#  23:16, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm (beh)
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped
+asim lsm beh
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1635 kB (elbread=1031 elab2=321 kernel=282 sdf=0)
+#  23:18, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm (beh)
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped
+asim lsm beh
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1635 kB (elbread=1031 elab2=321 kernel=282 sdf=0)
+#  23:19, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm (beh)
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped
+asim lsm beh
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1635 kB (elbread=1031 elab2=321 kernel=282 sdf=0)
+#  23:20, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm (beh)
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal F with formula 00.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal F with formula 00.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal F with formula 00.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal F with formula 00.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal F with formula 00.
+endsim
+#  Simulation has been stopped
+asim lsm beh
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1635 kB (elbread=1031 elab2=321 kernel=282 sdf=0)
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal A with formula 0011.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal F with formula 00.
+#  23:22, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm (beh)
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+#  Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim lsm_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1696 kB (elbread=1032 elab2=380 kernel=283 sdf=0)
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal A with formula 0011.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal F with formula 00.
+#  23:58, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm_tb (tb_architecture)
+# Signal C3 not found in design
+run
+endsim
+# KERNEL: stopped at time: 43638350 ns
+#  Simulation has been stopped
+asim lsm_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1696 kB (elbread=1032 elab2=380 kernel=283 sdf=0)
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal A with formula 0011.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal F with formula 00.
+#  23:59, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm_tb (tb_architecture)
+# Signal C3 not found in design
+run
+endsim
+# KERNEL: stopped at time: 7810750 ns
+#  Simulation has been stopped
+asim lsm_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1696 kB (elbread=1032 elab2=380 kernel=283 sdf=0)
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal A with formula 0011.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal F with formula 00.
+#  23:59, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm_tb (tb_architecture)
+# Signal C3 not found in design
+run
+run
+run
+run @6957.25us
+# Signal Y not found in design
+endsim
+# KERNEL: stopped at time: 24187050 ns
+#  Simulation has been stopped
+asim lsm_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1696 kB (elbread=1032 elab2=380 kernel=283 sdf=0)
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal A with formula 0011.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal F with formula 00.
+#  23:59, 27 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm_tb (tb_architecture)
+# Signal C3 not found in design
+run
+run
+endsim
+# KERNEL: stopped at time: 7597250 ns
+#  Simulation has been stopped
+asim lsm_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1696 kB (elbread=1032 elab2=380 kernel=283 sdf=0)
+#  0:00, 28 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm_tb (tb_architecture)
+# Signal C3 not found in design
+run
+endsim
+# KERNEL: stopped at time: 2503052 ns
+#  Simulation has been stopped
+asim lsm_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1696 kB (elbread=1032 elab2=380 kernel=283 sdf=0)
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal UUT1/F with formula 0001.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal UUT2/F with formula 0001.
+#  0:26, 28 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm_tb (tb_architecture)
+# Signal C3 not found in design
+run
+endsim
+# KERNEL: stopped at time: 2691650 ns
+#  Simulation has been stopped
+asim lsm_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1696 kB (elbread=1032 elab2=380 kernel=283 sdf=0)
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal UUT1/F with formula 01.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal UUT2/F with formula 01.
+#  0:27, 28 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm_tb (tb_architecture)
+# Signal C3 not found in design
+run
+endsim
+# KERNEL: stopped at time: 1639352 ns
+#  Simulation has been stopped
+asim lsm_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1696 kB (elbread=1032 elab2=380 kernel=283 sdf=0)
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal UUT1/F with formula 01.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal UUT2/F with formula 01.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal UUT2/F(0) with formula 1.
+#  0:29, 28 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm_tb (tb_architecture)
+# Signal C3 not found in design
+run
+endsim
+# KERNEL: stopped at time: 1917852 ns
+#  Simulation has been stopped
+asim lsm_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using a Student Edition of Active-HDL. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: To receive an unrestricted version contact sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1696 kB (elbread=1032 elab2=380 kernel=283 sdf=0)
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal UUT1/F with formula 01.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal UUT2/F with formula 01.
+# KERNEL: There is no resolved signal for DRIVING stimulator.
+# Cannot force signal UUT2/F(0) with formula 1.
+#  0:29, 28 сент€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: lsm_tb (tb_architecture)
+# Signal C3 not found in design
+run
+endsim
+# KERNEL: stopped at time: 152750 ns
+#  Simulation has been stopped
