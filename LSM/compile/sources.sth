@@ -1,8 +1,4 @@
 [Files List]
 C:\Program Files (x86)\Aldec\Active-HDL 7.2SE\Vlib\Std/src/standard.vhd=S
-C:\Program Files (x86)\Aldec\Active-HDL 7.2SE\Vlib\IEEE/src/stdlogic.vhd=S
-d:\projects\hard\vhdl\TDCS\LSM/src/FUN.vhd=S
-d:\projects\hard\vhdl\TDCS\LSM/src/cnetlist_lib.vhd=S
-d:\projects\hard\vhdl\TDCS\LSM/src/cnetwork_lib.vhd=S
-d:\projects\hard\vhdl\TDCS\LSM/src/LSM.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 7.2SE\Vlib\IEEE/src/numbit.vhd=S
 d:\projects\hard\vhdl\TDCS\LSM/src/BEH.vhd=S

@@ -1,7 +1,5 @@
 i<>.\src\CNetlist_Lib.vhd
 i<>.\src\CNetwork_LIB.vhd
-i<>.\src\LSM.vhd
-i<>.\src\BEH.vhd
 i<>.\src\STR_LUT.vhd
 i<>.\src\PLM_4.vhd
 i<>.\src\PLMI.vhd

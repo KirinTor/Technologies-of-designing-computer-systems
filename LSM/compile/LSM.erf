@@ -1,3 +1,4 @@
 MESSAGE "File: d:\projects\hard\vhdl\TDCS\LSM\src\BEH.vhd" 
+MESSAGE "Compile Entity "LSM"" 
 MESSAGE "Compile Architecture "BEH" of Entity "LSM"" 
 SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

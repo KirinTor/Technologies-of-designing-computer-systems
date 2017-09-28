@@ -1,4 +1,4 @@
-elbread.dll ver. 1.0.5.375 Thu Sep 28 01:44:40 2017
+elbread.dll ver. 1.0.5.375 Thu Sep 28 14:43:16 2017
 
 
 --------------------------------
@@ -7,11 +7,9 @@ Entity  | Architecture | Library
 lsm     | beh          | LSM
 --------------------------------
 
--------------------------
-Package         | Library
--------------------------
-standard        | std
-std_logic_1164  | ieee
-fun             | LSM
-cnetwork        | LSM
--------------------------
+----------------------
+Package      | Library
+----------------------
+standard     | std
+numeric_bit  | ieee
+----------------------
