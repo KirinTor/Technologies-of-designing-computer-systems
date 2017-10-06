@@ -51,33 +51,27 @@ Name7=HTML
 Directory7=d:\projects\hard\vhdl\TDCS\LSM\
 Extension7=
 
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=lsm_tb|tb_architecture|0
+ShowHide=ShowTopLevel
+Selected=
+
 [Files]
 /CNetlist_Lib.vhd=-1
 /CNetwork_LIB.vhd=-1
-/LSM.vhd=-1
 /BEH.vhd=-1
 /STR_LUT.vhd=-1
-/PLM_4.vhd=-1
-/PLMI.vhd=-1
-/PLMO.vhd=-1
-/PLMS.vhd=-1
-/PLM_NOR.vhd=-1
-/STR_PLM.vhd=-1
 /TB_ARCHITECTURE.vhd=-1
-/FUN.vhd=-1
+/C:\Users\kirin\Desktop\min.awf=-1
+/C:\Users\kirin\Desktop\Waveform Editor 2.awf=-1
 
 [Files.Data]
 .\src\CNetlist_Lib.vhd=VHDL Source Code
 .\src\CNetwork_LIB.vhd=VHDL Source Code
-.\src\LSM.vhd=VHDL Source Code
 .\src\BEH.vhd=VHDL Source Code
 .\src\STR_LUT.vhd=VHDL Source Code
-.\src\PLM_4.vhd=VHDL Source Code
-.\src\PLMI.vhd=VHDL Source Code
-.\src\PLMO.vhd=VHDL Source Code
-.\src\PLMS.vhd=VHDL Source Code
-.\src\PLM_NOR.vhd=VHDL Source Code
-.\src\STR_PLM.vhd=VHDL Source Code
 .\src\TB_ARCHITECTURE.vhd=VHDL Source Code
-.\src\FUN.vhd=VHDL Source Code
+C:\Users\kirin\Desktop\min.awf=Waveform File
+C:\Users\kirin\Desktop\Waveform Editor 2.awf=Waveform File
 

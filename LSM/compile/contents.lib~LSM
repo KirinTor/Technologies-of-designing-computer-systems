@@ -1,8 +1,8 @@
-2373
+12244
 ~E 1 "./src/cnetlist_lib.vhd" 299 plm_3
 ~E 1 "./src/BEH.vhd" 5 lsm
 ~A 1 "./src/str_lut.vhd" 1 str_lut
-~A 1 "./src/BEH.vhd" 15 beh
+~A 1 "./src/beh.vhd" 16 beh
 ~A 1 "./src/str_plm.vhd" 1 str_plm
 ~E 1 "./src/cnetlist_lib.vhd" 254 fdre
 ~A 1 "./src/cnetwork_lib.vhd" 261 beh

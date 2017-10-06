@@ -1,4 +1,10 @@
 [Files List]
 C:\Program Files (x86)\Aldec\Active-HDL 7.2SE\Vlib\Std/src/standard.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 7.2SE\Vlib\IEEE/src/stdlogic.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 7.2SE\Vlib\IEEE/src/math_packages.vhd=S
 C:\Program Files (x86)\Aldec\Active-HDL 7.2SE\Vlib\IEEE/src/numbit.vhd=S
-d:\projects\hard\vhdl\TDCS\LSM/src/BEH.vhd=S
+D:\projects\hard\vhdl\TDCS\LSM/src/cnetlist_lib.vhd=S
+D:\projects\hard\vhdl\TDCS\LSM/src/cnetwork_lib.vhd=S
+D:\projects\hard\vhdl\TDCS\LSM/src/BEH.vhd=S
+D:\projects\hard\vhdl\TDCS\LSM/src/str_lut.vhd=S
+D:\projects\hard\vhdl\TDCS\LSM/src/tb_architecture.vhd=S
