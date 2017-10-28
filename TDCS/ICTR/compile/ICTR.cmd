@@ -1,0 +1,1 @@
+-w -s "D:\projects\hard\vhdl\TDCS\TDCS\library.cfg"  -j "D:\projects\hard\vhdl\TDCS\TDCS\ICTR\projlib.cfg"  -d "D:\projects\hard\vhdl\TDCS\TDCS\ICTR\compile"  -work ICTR -dbg -e 100 -2002 "D:\\projects\\hard\\vhdl\\TDCS\\TDCS\\ICTR\\src\\beh.vhd" 

@@ -1,0 +1,144 @@
+# Design: Design ICTR already active.
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: C-Synthesis: Not Defined
+# DESIGN: HDL Synthesis: Not Defined
+# DESIGN: Physical Synthesis: Not Defined
+# DESIGN: Implementation: Not Defined
+acom -reorder -work ICTR -2002  $DSN/src/beh.vhd $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd
+# Compile with File Reorder...
+# File: D:\projects\hard\vhdl\TDCS\TDCS\ICTR\src\beh.vhd
+# Compile Entity "ICTR"
+# Error: COMP96_0078: beh.vhd : (1, 5): Unknown identifier "CNetwork".
+# Error: COMP96_0055: beh.vhd : (1, 5): Cannot find referenced context element.
+# Error: COMP96_0234: Fatal error : INTERNAL COMPILER ERROR
+#   (compiled file "D:\projects\hard\vhdl\TDCS\TDCS\ICTR\src\beh.vhd" - semantic process)
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom -reorder -work ICTR -2002  $DSN/src/beh.vhd $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd
+# Compile with File Reorder...
+# File: D:\projects\hard\vhdl\TDCS\TDCS\ICTR\src\beh.vhd
+# Compile Entity "ICTR"
+# Error: COMP96_0078: beh.vhd : (1, 5): Unknown identifier "CNetwork".
+# Error: COMP96_0055: beh.vhd : (1, 5): Cannot find referenced context element.
+# Error: COMP96_0234: Fatal error : INTERNAL COMPILER ERROR
+#   (compiled file "D:\projects\hard\vhdl\TDCS\TDCS\ICTR\src\beh.vhd" - semantic process)
+# Compile failure 3 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -work ICTR -2002  $DSN/src/CNetlist_Lib.vhd
+# Compile with File Reorder...
+# File: D:\projects\hard\vhdl\TDCS\TDCS\ICTR\src\CNetlist_Lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# Top-level unit(s) detected:
+# Entity  =>   LUT4
+# Entity  =>   RANDOM_GEN
+# Entity  =>   FDRE
+# Entity  =>   LUT5
+# Compile success 0 Errors 0 Warnings  Analysis time :  3.0 [s]
+acom -work ICTR -2002  $DSN/src/CNetwork_LIB.vhd
+# Compile...
+# File: D:\projects\hard\vhdl\TDCS\TDCS\ICTR\src\CNetwork_LIB.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.6 [s]
+acom -work ICTR -2002  $DSN/src/beh.vhd $DSN/src/cnetlist_lib.vhd $DSN/src/cnetwork_lib.vhd
+# Compile...
+# File: D:\projects\hard\vhdl\TDCS\TDCS\ICTR\src\beh.vhd
+# Compile Entity "ICTR"
+# Compile Architecture "BEH" of Entity "ICTR"
+# File: D:\projects\hard\vhdl\TDCS\TDCS\ICTR\src\cnetlist_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# File: D:\projects\hard\vhdl\TDCS\TDCS\ICTR\src\cnetwork_lib.vhd
+# Compile Package "CNetwork"
+# Compile Package Body "CNetwork"
+# Compile Entity "LUT4"
+# Compile Architecture "BEH" of Entity "LUT4"
+# Compile Entity "LUT5"
+# Compile Architecture "BEH" of Entity "LUT5"
+# Compile Entity "RANDOM_GEN"
+# Compile Architecture "BEH" of Entity "RANDOM_GEN"
+# Compile Entity "FDRE"
+# Compile Architecture "BEH" of Entity "FDRE"
+# Compile Entity "PLM_6"
+# Compile Entity "PLM_5"
+# Compile Entity "PLM_4"
+# Compile Entity "PLM_3"
+# Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]
+# Design: Design ICTR already active.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.1 [s].
+asim -advdataflow  ictr beh
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+acom -work ICTR -2002  $DSN/src/beh.vhd
+# Compile...
+# File: D:\projects\hard\vhdl\TDCS\TDCS\ICTR\src\beh.vhd
+# Compile Entity "ICTR"
+# Compile Architecture "BEH" of Entity "ICTR"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1745 kB (elbread=1023 elab2=450 kernel=270 sdf=0)
+# KERNEL: ASDB file was created in location D:\projects\hard\vhdl\TDCS\TDCS\ICTR\src\wave.asdb
+#  0:04, 27 окт€бр€ 2017 г.
+#  Simulation has been initialized
+#  Selected Top-Level: ictr (beh)
+run 100 ns
+# KERNEL: stopped at time: 100 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+#  Simulation has been stopped

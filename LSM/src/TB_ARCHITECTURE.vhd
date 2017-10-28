@@ -26,7 +26,7 @@ component RANDOM_BIT is
  Y : out BIT);
 end component;
 
-signal F : BIT:='0';
+signal F : BIT:='1';
 signal C0 : BIT:='0';
 signal A,B : BIT_VECTOR(11 downto 0);
 signal Y1,Y2,Y : BIT_VECTOR(11 downto 0);

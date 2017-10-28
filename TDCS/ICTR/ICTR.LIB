@@ -1,0 +1,97 @@
+timestamp=1509051873551
+
+[cnetwork]
+B/cnetwork=3*54509
+E=1*25947
+I=0*1289
+I/cnetwork=I/CNetwork 0*3798
+M=3|0|v41|1509051789407|./src/CNetlist_Lib.vhd|0*611*0x6d01134088bc5d46fe5251ddc65faaec8f485975|0*1216*0xa21b273bdc144137564d3fdae1d126f0
+M/cnetwork=4|0|v41|1509051813140|./src/CNetlist_Lib.vhd|0*1391*0xd7e13f2419aa48880409c912b404c37dff6582fc|0*3714*0xa21b273bdc144137564d3fdae1d126f0
+R=./src/CNetlist_Lib.vhd|18
+
+[fdre]
+A/beh=21|./src/cnetwork_lib.vhd|261|1*32463
+B/beh=3*77613
+I=0*7705
+I/beh=I/BEH 0*8067
+M=11|0|v41|1509051789547|./src/CNetlist_Lib.vhd|0*7426*0x497e898913a8f36cfc8f656bd80b83f68d27063b|0*7636*0xa21b273bdc144137564d3fdae1d126f0
+M/beh=21|0|v41|1509051813567|./src/CNetlist_Lib.vhd|0*7738*0xd61e8a6bed8c09919bb72ecac4349f9d03310876|0*7991*0xa21b273bdc144137564d3fdae1d126f0
+R=./src/CNetlist_Lib.vhd|254
+
+[ictr]
+A/beh=A/BEH 21|./src/beh.vhd|15|1*33680
+B/beh=3*79024
+I=0*10758
+I/beh=I/BEH 0*12020
+M=11|0|v41|1509051812593|./src/beh.vhd|0*10393*0x6036339390d03162ff4a70bab96a6a6905e3028b|0*10698*0xa21b273bdc144137564d3fdae1d126f0
+M/beh=M/BEH 21|0|v41|1509051873415|./src/beh.vhd|0*10909*0xc33f71bdf60516c19fa11713f17c929d96571a93|0*11953*0xa21b273bdc144137564d3fdae1d126f0
+R=./src/beh.vhd|5
+
+[lut4]
+A/beh=21|./src/cnetwork_lib.vhd|194|1*27767
+B/beh=3*73406
+I=0*4446
+I/beh=I/BEH 0*4783
+M=11|0|v41|1509051789485|./src/CNetlist_Lib.vhd|0*4098*0xfbdf5167f8c954669aeaf7350781013bdd237618|0*4377*0xa21b273bdc144137564d3fdae1d126f0
+M/beh=21|0|v41|1509051813286|./src/CNetlist_Lib.vhd|0*4535*0x5ea32baf8bf5824413aaa4f9da59235ed1b8c42d|0*4707*0xa21b273bdc144137564d3fdae1d126f0
+R=./src/CNetlist_Lib.vhd|182
+
+[lut5]
+A/beh=21|./src/cnetwork_lib.vhd|213|1*29156
+B/beh=3*74080
+I=0*5448
+I/beh=I/BEH 0*5787
+M=11|0|v41|1509051789501|./src/CNetlist_Lib.vhd|0*5081*0x1c74653088195f39d5282ce46d07cd70dff62248|0*5379*0xa21b273bdc144137564d3fdae1d126f0
+M/beh=21|0|v41|1509051813442|./src/CNetlist_Lib.vhd|0*5537*0x4c0ff67910d469314ede6c0dc9463838683509d8|0*5711*0xa21b273bdc144137564d3fdae1d126f0
+R=./src/CNetlist_Lib.vhd|200
+
+[plm_3]
+I=0*10112
+M=11|0|v41|1509051790902|./src/CNetlist_Lib.vhd|0*9849*0xf3eb6206d24fae5783392c731bfd4dcc767e55f2|0*10042*0xa21b273bdc144137564d3fdae1d126f0
+R=./src/CNetlist_Lib.vhd|299
+
+[plm_4]
+I=0*9613
+M=11|0|v41|1509051790888|./src/CNetlist_Lib.vhd|0*9345*0x505ae53ec42a25f774a424cfe2ca02c17fae839f|0*9543*0xa21b273bdc144137564d3fdae1d126f0
+R=./src/CNetlist_Lib.vhd|292
+
+[plm_5]
+I=0*9097
+M=11|0|v41|1509051790886|./src/CNetlist_Lib.vhd|0*8824*0xc07f47035a95a5d16dba96e9305d399fe7c1f9f9|0*9027*0xa21b273bdc144137564d3fdae1d126f0
+R=./src/CNetlist_Lib.vhd|285
+
+[plm_6]
+I=0*8564
+M=11|0|v41|1509051790215|./src/CNetlist_Lib.vhd|0*8286*0xbce8696f5df5072a6b18a45b1dd64ad8e4e553ae|0*8494*0xa21b273bdc144137564d3fdae1d126f0
+R=./src/CNetlist_Lib.vhd|278
+
+[random_gen]
+A/beh=21|./src/cnetwork_lib.vhd|233|1*30621
+B/beh=3*74790
+I=0*6471
+I/beh=I/BEH 0*7111
+M=11|0|v41|1509051789532|./src/CNetlist_Lib.vhd|0*6077*0xd3f2da04039acddf3132ab0b3cc5cc618638e15d|0*6396*0xa21b273bdc144137564d3fdae1d126f0
+M/beh=21|0|v41|1509051813471|./src/CNetlist_Lib.vhd|0*6626*0x7ad5e3316db1eb44c8d93620e09bdc031a4077d5|0*7029*0xa21b273bdc144137564d3fdae1d126f0
+R=./src/CNetlist_Lib.vhd|223
+
+[~A]
+ModifyID=124
+Version=73
+
+[~MFT]
+0=58|0ICTR.mgf|12020|0
+1=37|1ICTR.mgf|33680|25947
+3=27|3ICTR.mgf|79024|54509
+
+[~U]
+cnetwork=CNetwork 3|0*0|0*124
+fdre=FDRE 11|0*7270|
+ictr=ICTR 11|0*10202|
+lut4=LUT4 11|0*3909|
+lut5=LUT5 11|0*4876|
+plm_3=PLM_3 11|0*9703|
+plm_4=PLM_4 11|0*9187|
+plm_5=PLM_5 11|0*8654|
+plm_6=PLM_6 11|0*8104|
+random_gen=RANDOM_GEN 11|0*5880|
+

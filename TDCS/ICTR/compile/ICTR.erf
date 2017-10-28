@@ -1,0 +1,4 @@
+MESSAGE "File: D:\projects\hard\vhdl\TDCS\TDCS\ICTR\src\beh.vhd" 
+MESSAGE "Compile Entity "ICTR"" 
+MESSAGE "Compile Architecture "BEH" of Entity "ICTR"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

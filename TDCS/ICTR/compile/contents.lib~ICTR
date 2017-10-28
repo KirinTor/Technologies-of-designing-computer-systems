@@ -1,0 +1,15 @@
+124
+~E 1 "./src/CNetlist_Lib.vhd" 182 lut4
+~A 1 "./src/cnetwork_lib.vhd" 194 beh
+~E 1 "./src/CNetlist_Lib.vhd" 254 fdre
+~A 1 "./src/cnetwork_lib.vhd" 261 beh
+~E 1 "./src/beh.vhd" 5 ictr
+~A 1 "./src/beh.vhd" 15 beh
+~E 1 "./src/CNetlist_Lib.vhd" 285 plm_5
+~E 1 "./src/CNetlist_Lib.vhd" 299 plm_3
+~E 1 "./src/CNetlist_Lib.vhd" 200 lut5
+~A 1 "./src/cnetwork_lib.vhd" 213 beh
+~E 1 "./src/CNetlist_Lib.vhd" 292 plm_4
+~E 1 "./src/CNetlist_Lib.vhd" 278 plm_6
+~E 1 "./src/CNetlist_Lib.vhd" 223 random_gen
+~A 1 "./src/cnetwork_lib.vhd" 233 beh
